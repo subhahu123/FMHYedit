@@ -1,102 +1,136 @@
-# [📛 Adblock / Privacy / Antivirus](https://github.com/nbats/FMHY/wiki/%F0%9F%93%9B-Adblock---Privacy---Antivirus)
+# FMHY
+
+---
+
+## Table of Contents
+
+- [FMHY](FMHY.md)
+	- [AdblockVPNGuide](AdblockVPNGuide.md)
+	- [AndroidPiracyGuide](AndroidPiracyGuide.md)
+	- [AudioPiracyGuide](AudioPiracyGuide.md)
+	- [Backups](Backups.md)
+	- [base64](base64.md)
+	- [Beginners Guide to Piracy](Beginners%20Guide%20to%20Piracy.md)
+	- [DEVTools](DEVTools.md)
+	- [DownloadPiracyGuide](DownloadPiracyGuide.md)
+	- [Edit FMHY](Edit%20FMHY.md)
+	- [EDUPiracyGuide](EDUPiracyGuide.md)
+	- [Game-Tools](Game-Tools.md)
+	- [GamingPiracyGuide](GamingPiracyGuide.md)
+	- [img-tools](img-tools.md)
+	- [LinuxGuide](LinuxGuide.md)
+	- [MISCGuide](MISCGuide.md)
+	- [Non-English](Non-English.md)
+	- [NSFWPiracy](NSFWPiracy.md)
+	- [ReadingPiracyGuide](ReadingPiracyGuide.md)
+	- [Site Hunting Guide](Site%20Hunting%20Guide.md)
+	- [STORAGE](STORAGE.md)
+	- [TOOLSGuide](TOOLSGuide.md)
+	- [TorrentPiracyGuide](TorrentPiracyGuide.md)
+	- [VideoPiracyGuide](VideoPiracyGuide.md)
+
+
+---
+
+# 📛 [Adblock / Privacy / Antivirus](AdblockVPNGuide.md)
 
 **Adblocking Extensions, Privacy Extensions, Privacy Tools, VPN's, Proxies, Antivirus**
 
 ***
 ***
 
-# [📺 Movies / TV / Anime / Sports](https://github.com/nbats/FMHY/wiki/%F0%9F%93%BA-Movies---TV---Anime---Sports)
+#  [📺 Movies / TV / Anime / Sports](VideoPiracyGuide.md)
 
 **Streaming Apps, Streaming Sites, Download Sites, Torrent Apps, Torrent Sites**
 
 ***
 ***
 
-# [🎵 Music / Podcasts / Radio](https://github.com/nbats/FMHY/wiki/%F0%9F%8E%B5-Music---Podcasts---Radio)
+# [🎵 Music / Podcasts / Radio](AudioPiracyGuide.md)
 
 **Audio Streaming, Audio Downloading, Audio Torrenting**
 
 ***
 ***
 
-# [🎮 Gaming / Emulation](https://github.com/nbats/FMHY/wiki/%F0%9F%8E%AE-Gaming---Emulation)
+# [🎮 Gaming / Emulation](GamingPiracyGuide.md)
 
 **Download Games, Torrent Games, Emulators, ROMs**
 
 ***
 ***
 
-# [📗 Books / Comics / Manga](https://github.com/nbats/FMHY/wiki/%F0%9F%93%97-Books---Comics---Manga)
+# [📗 Books / Comics / Manga](ReadingPiracyGuide.md)
 
 **Books, Comics, Magazines, Newspapers, Light Novels**
 
 ***
 ***
 
-# [💾 Downloading](https://github.com/nbats/FMHY/wiki/%F0%9F%92%BE-Downloading)
+# [💾 Downloading](DownloadPiracyGuide.md)
 
 **Download Forums, Download Directories, Download Sites**
 
 ***
 ***
 
-# [🌀 Torrenting](https://github.com/nbats/FMHY/wiki/%F0%9F%8C%80-Torrenting)
+# [🌀 Torrenting](TorrentPiracyGuide.md)
 
 **Torrent Clients, Torrent Sites, Tracker Invites**
 
 ***
 ***
 
-# [🧠 Educational](https://github.com/nbats/FMHY/wiki/%F0%9F%A7%A0-Educational)
+# [🧠 Educational](EDUPiracyGuide.md)
 
 **Courses, Documentaries, Calculators, Language Learning, Tools**
 
 ***
 ***
 
-# [🔧 Tools](https://github.com/nbats/FMHY/wiki/%F0%9F%94%A7-Tools)
+# [🔧 Tools](TOOLSGuide.md)
 
 **General Tools, Internet Tools, System Tools, Gaming Tools**
 
 ***
 ***
 
-# [📂 Miscellaneous](https://github.com/nbats/FMHY/wiki/%F0%9F%93%82-Miscellaneous)
+# [📂 Miscellaneous](MISCGuide.md)
 
 **Extensions, Indexes, News, Health, Cooking, Fun Sites**
 
 ***
 ***
 
-# [📱 Android / iOS](https://github.com/nbats/FMHY/wiki/%F0%9F%93%B1-Android---iOS)
+# [📱 Android / iOS](AndroidPiracyGuide.md)
 
 **Adblocking, Emulators, APKs, Apps, Torrenting, Streaming**
 
 ***
 ***
 
-# [🐧 Linux / MacOS](https://github.com/nbats/FMHY/wiki/%F0%9F%90%A7-Linux---MacOS)
+# [🐧 Linux / MacOS](LinuxGuide.md)
 
 **Apps, Tools, Adblocking, Privacy, Software, Gaming**
 
 ***
 ***
 
-# [🌏 Non-English](https://github.com/nbats/FMHY/wiki/%F0%9F%8C%8F-Non-English)
+# [🌏 Non-English](Non-English.md)
 
 **International Piracy Sites** 
 
 ***
 ***
 
-# [🏴‍☠️ Beginners Guide](https://rentry.org/Piracy-BG)
+# [🏴‍☠️ Beginners Guide](Beginners%20Guide%20to%20Piracy.md)
 
 **Beginners Guide to Piracy**
 
 ***
 ***
 
-# [🔒 Backups](https://github.com/nbats/FMHY/wiki/Backups)
+# [🔒 Backups](Backups.md)
 
 **FMHY Backups**
 
@@ -110,14 +144,34 @@
 ***
 ***
 
-**[Storage](https://github.com/nbats/FMHY/wiki/Storage)** - Link to the GitHub storage page. You need to manually open this as of now since many links lead back to reddit instead of GitHub
+# [🖥 Storage](STORAGE.md)
+
+Link to the GitHub storage page. You need to manually open this as of now since many links lead back to reddit instead of GitHub
 
 ***
 ***
 
-**[Edit FMHY](https://rentry.co/FMHYedit)** - Make changes to the FMHY Wiki
+# [🔍 Site Hunting Guide](Site%20Hunting%20Guide.md)
+
+Help us Discover New Sites
+
+---
+---
+
+# [⌨️ Edit FMHY](Edit%20FMHY.md)
+
+Make changes to the FMHY Wiki
 
 ***
-***
 
-**[Site Hunting Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites)** - Help us Discover New Sites
+**Things to note:**
+
+* Anyone can organize, correct or change anything they feel could be improved.
+
+* If you're adding a new site, please ctrl+f the url on this [page](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page) or [engine](https://github.com/Rust1667/a-FMHY-search-engine) to make sure we don't already have it.
+
+* Approved edits will be applied to [reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki) and all [backups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups).
+
+* You can send us stuff directly via [💬 Divolt](https://redd.it/uto5vw).
+
+---
