@@ -19,7 +19,7 @@ coverY: 0
 
 {% embed url="https://www.troddit.com/r/FREEMEDIAHECKYEAH" %}
 
-*
+
 
 ## 📛 [Adblock / Privacy / Antivirus](fmhy/adblockvpnguide.md)
 
