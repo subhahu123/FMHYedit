@@ -1,17 +1,5 @@
 # 🎬 VideoPiracyGuide
 
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
 ## ► Streaming Sites
 
 ### ▷ Dedicated Hosts
@@ -303,10 +291,6 @@
 * [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/), [2](https://github.com/joric/bandersnatch) - Interactive player for Black Mirror: Bandersnatch
 * [ListenToAMovie](http://listentoamovie.com/) - Listen to Movies
 * [Audiovault](https://audiovault.net/) - Descriptive Audio for Blind Users
-
-***
-
-### ▷ [Educational Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki\_.25BA\_streaming)
 
 ***
 
@@ -642,14 +626,6 @@
 
 ***
 
-## ► [Android Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki\_.25BA\_android\_streaming)
-
-***
-
-## ► [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki\_.25BA\_ios\_streaming)
-
-***
-
 ## ► Download Sites
 
 * **Note** - Use [**redirect bypassers**](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki\_skip\_redirect) to skip annoying link shorteners
@@ -826,9 +802,6 @@
 * [Anime DL](https://archive.org/details/animedl4.0\_202004) - Stream & Download Anime in VLC
 * [Crunchyroll.dl](https://github.com/Sakurai07/Crunchyroll.dl) or [Crunchyroll Downloader](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - Non-Prem Crunchyroll Downloaders
 
-***
-
-### ▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki\_.25BA\_downloading)
 
 ***
 
@@ -915,9 +888,6 @@
 * [Miru](https://github.com/ThaUnknown/miru) or [anitor-stream](https://github.com/gan-of-culture/anitor-stream) - Stream Anime Torrents
 * [Aniloader](https://github.com/Xanahol/Aniloader) or [AniTorrent](https://github.com/Kajiya-aru/AniTorrent) - Anime Torrent Autodownloader
 
-***
-
-### ▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki\_.25BA\_torrenting)
 
 ***
 

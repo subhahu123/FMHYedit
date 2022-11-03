@@ -1,17 +1,5 @@
 # 📡 DownloadPiracyGuide
 
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
 ## ► Download Directories
 
 * **Note** - Some Open Directories grab IP's, so use a VPN or Tor when accessing them.
@@ -153,26 +141,6 @@
 * [Hitfilesearch](https://www.hitfilesearch.com/) - Search HitFile
 * [WarezOmen](https://warezomen.com/) - Indexer / Search Engine
 * [SunXDCC](http://sunxdcc.com/) or [XDCC.EU](https://www.xdcc.eu/) - XDCC / Search Engine
-
-***
-
-### ▷ [Video Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki\_.25BA\_download\_sites)
-
-***
-
-### ▷ [Anime Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki\_.25B7\_anime\_downloading)
-
-***
-
-### ▷ [Educational Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki\_.25BA\_downloading)
-
-***
-
-### ▷ [Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki\_.25BA\_download\_games)
-
-***
-
-### ▷ [Audio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki\_.25BA\_audio\_downloading)
 
 ***
 
@@ -328,14 +296,6 @@
 
 ***
 
-### ▷ [Linux Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki\_.25BA\_linux\_software)
-
-***
-
-### ▷ [Mac Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki\_.25BA\_mac\_software)
-
-***
-
 ### ▷ GFX Design Software
 
 * Note - Some of these also host editing courses
@@ -446,5 +406,3 @@
 * [RapidGrab](https://rapidgrab.pl/) - Leech
 
 ***
-
-## ► [File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki\_.25B7\_file\_tools)

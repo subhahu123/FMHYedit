@@ -1,17 +1,5 @@
 # 📖 ReadingPiracyGuide
 
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
 ## ► Audiobook Sites
 
 * ⭐ [**Audiobook CSE**](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd) - Multi-Site Audiobook Search

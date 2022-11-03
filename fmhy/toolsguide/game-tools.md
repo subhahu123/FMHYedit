@@ -1,14 +1,3 @@
-***
-***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-***
-***
-
-**[Table of Contents](https://i.imgur.com/2Vz6sP8.png)** - For mobile users
-
-***
-*** 
-
 # ► Gaming Tools
 
 * ⭐ **[Game Libraries / Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_libraries_.2F_launcher)** - Manage & Launch Games

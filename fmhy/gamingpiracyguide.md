@@ -1,17 +1,5 @@
 # 🎮 GamingPiracyGuide
 
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
 ## ► Download Games
 
 * **Note** - Use [**redirect bypassers**](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki\_skip\_redirect) to skip annoying link shorteners
@@ -774,14 +762,6 @@
 
 ***
 
-## ► [Linux Gaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki\_.25BA\_linux\_gaming)
-
-***
-
-## ► [Mac Gaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki\_.25BA\_mac\_gaming)
-
-***
-
 ## ► Tracking / Discovery
 
 * ⭐ [**IMDb Advanced Search**](https://www.imdb.com/search/)
@@ -822,4 +802,3 @@
 
 ***
 
-## ► [Gaming Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools)

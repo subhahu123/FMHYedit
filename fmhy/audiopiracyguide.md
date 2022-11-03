@@ -1,15 +1,5 @@
 # 🎧 AudioPiracyGuide
 
-***
-
-***
-
-***
-
-***
-
-***
-
 ## ► Audio Streaming
 
 ### ▷ Streaming Apps
@@ -437,14 +427,6 @@
 
 ***
 
-## ► [Android Audio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki\_.25BA\_android\_audio)
-
-***
-
-## ► [iOS Audio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki\_.25BA\_ios\_audio)
-
-***
-
 ## ► Tracking / Discovery
 
 * ⭐ [**Last.fm**](https://www.last.fm/home), [Music Board](https://musicboard.app/) or [Libre](https://libre.fm/) - Track Music you Listen to
@@ -492,5 +474,3 @@
 * [Podcatalysts](https://podcatalysts.substack.com/) - Podcast Recommendation Newsletter
 
 ***
-
-## ► [Audio Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki\_.25B7\_audio\_tools)

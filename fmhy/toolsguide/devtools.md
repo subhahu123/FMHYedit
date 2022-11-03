@@ -1,17 +1,5 @@
 # 🖥 DEVTools
 
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
 ## ► Learning / Cheat Sheets
 
 * ⭐ [**StackOverflow**](https://stackoverflow.com/), [StackAnon](https://stackanon.com/), [DecodingDevOps](https://www.decodingdevops.com/) or [Stack Roboflow](https://stackroboflow.com/) - Developer Q\&A

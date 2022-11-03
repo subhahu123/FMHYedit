@@ -1,14 +1,3 @@
-***
-***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-***
-***
-
-**[Table of Contents](https://i.imgur.com/qJCHR5d.png)** - For mobile users
-
-***
-***
-
 # ► Arabic 
 
 * [Dawin](https://www.dawin.io/) - Markdown Editor 

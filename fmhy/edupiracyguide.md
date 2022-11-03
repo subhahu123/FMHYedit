@@ -1,17 +1,5 @@
 # 🎓 EDUPiracyGuide
 
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
 ## ► Streaming
 
 ### ▷ Courses
@@ -256,31 +244,6 @@
 * [MVGroup](https://forums.mvgroup.org/)
 
 ***
-
-## ► [Reading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki\_.25BA\_educational\_sites)
-
-***
-
-### ▷ [History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki\_.25B7\_history\_sites)
-
-***
-
-### ▷ [Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki\_.25B7\_programming\_sites)
-
-***
-
-### ▷ [Documents / Articles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki\_.25B7\_documents\_.2F\_articles)
-
-***
-
-### ▷ [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki\_.25B7\_manual\_sites)
-
-***
-
-### ▷ [Reference Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki\_.25B7\_reference\_sites)
-
-***
-
 ## ► Games
 
 * ⭐ [**Awesome Educational Games**](https://github.com/yrgo/awesome-educational-games) - Educational Games Index
@@ -507,10 +470,6 @@
 * [Matterport](https://matterport.com/gallery) - Explore Real Places Digitally
 * [Outside Simulator](https://outsidesimulator.com/) - Simulate Being Outside
 * [Heygo](https://www.heygo.com/) - Live Interactive Virtual Tours
-
-***
-
-## ► [Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki\_.25BA\_learning\_.2F\_cheat\_sheets)
 
 ***
 

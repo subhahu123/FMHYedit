@@ -1,19 +1,5 @@
 # 🔗 TorrentPiracyGuide
 
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
 ## ► Torrent Clients
 
 **Make sure you** [**BIND**](https://redd.it/ssy8vv) **your VPN to your client to avoid ISP letters.**
@@ -75,14 +61,6 @@
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
 * [JSTorrent](https://www.jstorrent.com/) - Chrome
 * [BitFord](https://github.com/astro/bitford) - Chrome
-
-***
-
-### ▷ [Android Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki\_.25BA\_android\_torrenting)
-
-***
-
-### ▷ [iOS Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki\_.25BA\_ios\_torrenting)
 
 ***
 
@@ -180,26 +158,6 @@
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Magnet Web App Search
 * [Torrentinim](https://github.com/sergiotapia/torrentinim) - Self-Hosted Torrent Search Engine
 * [torrentsearcher\_bot](https://t.me/torrentsearcher\_bot), [torrenthuntbot](https://t.me/torrenthuntbot) or [FDTorrentSearchBot](https://t.me/FDTorrentSearchBot) - Telegram Torrent Search Bot
-
-***
-
-### ▷ [Video Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki\_.25BA\_torrent\_sites)
-
-***
-
-### ▷ [Anime Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki\_.25B7\_anime\_torrenting)
-
-***
-
-### ▷ [Educational Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki\_.25B7\_educational\_torrenting)
-
-***
-
-### ▷ [Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki\_.25BA\_torrent\_games)
-
-***
-
-### ▷ [Audio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki\_.25BA\_audio\_torrenting)
 
 ***
 

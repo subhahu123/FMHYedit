@@ -1,17 +1,5 @@
 # 🛠 TOOLSGuide
 
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
 ## ► General Tools
 
 * ⭐ [**Multi-Tool Sites**](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki\_multi\_tool\_sites) - Sites with Multiple Tools

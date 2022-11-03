@@ -1,17 +1,5 @@
 # 🔐 AdblockVPNGuide
 
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
 ## ► Adblocking
 
 * ⭐ [**Can You Block It?**](https://canyoublockit.com/), [AdBlock Tester](https://adblock-tester.com/), [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) or [AmIUnique](https://amiunique.org/fp) - Adblocking Tests
