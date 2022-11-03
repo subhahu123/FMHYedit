@@ -1,16 +1,12 @@
-# DEVTools
+# 🖥 DEVTools
 
 ***
 
 ***
 
-[**◄◄ Back to Wiki Index**](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)
-
 ***
 
 ***
-
-[**Table of Contents**](https://i.imgur.com/ILsqBZJ.png) - For mobile users
 
 ***
 
