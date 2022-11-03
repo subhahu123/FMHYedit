@@ -131,7 +131,8 @@ coverY: 0
 
 ##### [🖥 Storage](STORAGE.md)
 
-Link to the GitHub storage page. You need to manually open this as of now since many links lead back to reddit instead of GitHub
+Link to the GitHub storage page. 
+You need to manually open this as of now since many links lead back to reddit instead of GitHub
 
 ***
 ***
