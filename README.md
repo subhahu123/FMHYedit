@@ -77,7 +77,11 @@ coverY: 0
 
 ## [🖥 Storage](STORAGE.md)
 
-Link to the GitHub storage page. You need to manually open this as of now since many links lead back to reddit instead of GitHub
+Link to the GitHub storage page.&#x20;
+
+You need to manually open this as of now,&#x20;
+
+since many links lead back to reddit instead of GitHub
 
 ## [🔍 Site Hunting Guide](Site%20Hunting%20Guide.md)
 
@@ -95,4 +99,3 @@ Make changes to the FMHY Wiki
 * If you're adding a new site, please ctrl+f the url on this [page](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page) or [engine](https://github.com/Rust1667/a-FMHY-search-engine) to make sure we don't already have it.
 * Approved edits will be applied to [reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki) and all [backups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups).
 * You can send us stuff directly via [💬 Divolt](https://redd.it/uto5vw).
-
