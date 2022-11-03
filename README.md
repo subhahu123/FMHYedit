@@ -5,6 +5,18 @@ cover: >-
 coverY: 0
 ---
 
+# 📓 FMHY
+
+<figure><img src=".gitbook/assets/FREEMEDIAHECKYEAH.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index" %}
+
+{% embed url="https://saidit.net/s/freemediaheckyeah/wiki/index" %}
+
+{% embed url="https://www.troddit.com/r/FREEMEDIAHECKYEAH" %}
+
+<figure><img src=".gitbook/assets/FMHY Stats 2.png" alt=""><figcaption></figcaption></figure>
+
 ## [📛 [Adblock / Privacy / Antivirus](AdblockVPNGuide.md)
 
 **Adblocking Extensions, Privacy Extensions, Privacy Tools, VPN's, Proxies, Antivirus**
