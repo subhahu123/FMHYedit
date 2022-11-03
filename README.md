@@ -18,7 +18,3 @@ coverY: 0
 {% embed url="https://saidit.net/s/freemediaheckyeah/wiki/index" %}
 
 {% embed url="https://www.troddit.com/r/FREEMEDIAHECKYEAH" %}
-
-***
-
-***
