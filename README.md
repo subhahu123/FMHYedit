@@ -1,6 +1,11 @@
-# 📓 FMHY
+---
+cover: >-
+  .gitbook/assets/FMHY Banner (1280 × 520 px) (1280 × 410 px) (1280 × 300
+  px).png
+coverY: 0
+---
 
-***
+# 📓 FMHY
 
 ### Table of Contents
 
@@ -28,8 +33,6 @@
   * [TOOLSGuide](fmhy/toolsguide/)
   * [TorrentPiracyGuide](fmhy/torrentpiracyguide.md)
   * [VideoPiracyGuide](fmhy/videopiracyguide.md)
-
-***
 
 ## 📛 [Adblock / Privacy / Antivirus](fmhy/adblockvpnguide.md)
 
