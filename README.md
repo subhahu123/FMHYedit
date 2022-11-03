@@ -9,12 +9,6 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/FREEMEDIAHECKYEAH.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index" %}
-
-{% embed url="https://saidit.net/s/freemediaheckyeah/wiki/index" %}
-
-{% embed url="https://www.troddit.com/r/FREEMEDIAHECKYEAH" %}
-
 <figure><img src=".gitbook/assets/FMHY Stats 2.png" alt=""><figcaption></figcaption></figure>
 
 ## [📛 Adblock / Privacy / Antivirus](AdblockVPNGuide.md)
@@ -22,13 +16,15 @@ coverY: 0
 **Adblocking Extensions, Privacy Extensions, Privacy Tools, VPN's, Proxies, Antivirus**
 
 ***
+
 ***
 
-##  [📺 Movies / TV / Anime / Sports](VideoPiracyGuide.md)
+## [📺 Movies / TV / Anime / Sports](VideoPiracyGuide.md)
 
 **Streaming Apps, Streaming Sites, Download Sites, Torrent Apps, Torrent Sites**
 
 ***
+
 ***
 
 ## [🎵 Music / Podcasts / Radio](AudioPiracyGuide.md)
@@ -36,6 +32,7 @@ coverY: 0
 **Audio Streaming, Audio Downloading, Audio Torrenting**
 
 ***
+
 ***
 
 ## [🎮 Gaming / Emulation](GamingPiracyGuide.md)
@@ -43,6 +40,7 @@ coverY: 0
 **Download Games, Torrent Games, Emulators, ROMs**
 
 ***
+
 ***
 
 ## [📗 Books / Comics / Manga](ReadingPiracyGuide.md)
@@ -50,6 +48,7 @@ coverY: 0
 **Books, Comics, Magazines, Newspapers, Light Novels**
 
 ***
+
 ***
 
 ## [💾 Downloading](DownloadPiracyGuide.md)
@@ -57,6 +56,7 @@ coverY: 0
 **Download Forums, Download Directories, Download Sites**
 
 ***
+
 ***
 
 ## [🌀 Torrenting](TorrentPiracyGuide.md)
@@ -64,6 +64,7 @@ coverY: 0
 **Torrent Clients, Torrent Sites, Tracker Invites**
 
 ***
+
 ***
 
 ## [🧠 Educational](EDUPiracyGuide.md)
@@ -71,6 +72,7 @@ coverY: 0
 **Courses, Documentaries, Calculators, Language Learning, Tools**
 
 ***
+
 ***
 
 ## [🔧 Tools](TOOLSGuide.md)
@@ -78,6 +80,7 @@ coverY: 0
 **General Tools, Internet Tools, System Tools, Gaming Tools**
 
 ***
+
 ***
 
 ## [📂 Miscellaneous](MISCGuide.md)
@@ -85,6 +88,7 @@ coverY: 0
 **Extensions, Indexes, News, Health, Cooking, Fun Sites**
 
 ***
+
 ***
 
 ## [📱 Android / iOS](AndroidPiracyGuide.md)
@@ -92,6 +96,7 @@ coverY: 0
 **Adblocking, Emulators, APKs, Apps, Torrenting, Streaming**
 
 ***
+
 ***
 
 ## [🐧 Linux / MacOS](LinuxGuide.md)
@@ -99,13 +104,15 @@ coverY: 0
 **Apps, Tools, Adblocking, Privacy, Software, Gaming**
 
 ***
+
 ***
 
 ## [🌏 Non-English](Non-English.md)
 
-**International Piracy Sites** 
+**International Piracy Sites**
 
 ***
+
 ***
 
 ## [🏴‍☠️ Beginners Guide](Beginners%20Guide%20to%20Piracy.md)
@@ -113,6 +120,7 @@ coverY: 0
 **Beginners Guide to Piracy**
 
 ***
+
 ***
 
 ## [🔒 Backups](Backups.md)
@@ -120,6 +128,7 @@ coverY: 0
 **FMHY Backups**
 
 ***
+
 ***
 
 ## [💬 Divolt](https://redd.it/uto5vw)
@@ -127,6 +136,7 @@ coverY: 0
 **Chat, Get Help, Suggest Sites**
 
 ***
+
 ***
 
 ## [🖥 Storage](STORAGE.md)
@@ -134,14 +144,16 @@ coverY: 0
 Link to the GitHub storage page. You need to manually open this as of now since many links lead back to reddit instead of GitHub
 
 ***
+
 ***
 
 ## [🔍 Site Hunting Guide](Site%20Hunting%20Guide.md)
 
 Help us Discover New Sites
 
----
----
+***
+
+***
 
 ## [⌨️ Edit FMHY](Edit%20FMHY.md)
 
@@ -152,17 +164,13 @@ Make changes to the FMHY Wiki
 **Things to note:**
 
 * Anyone can organize, correct or change anything they feel could be improved.
-
 * If you're adding a new site, please ctrl+f the url on this [page](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page) or [engine](https://github.com/Rust1667/a-FMHY-search-engine) to make sure we don't already have it.
-
 * Approved edits will be applied to [reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki) and all [backups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups).
-
 * You can send us stuff directly via [💬 Divolt](https://redd.it/uto5vw).
 
----](<# 📓 FMHY
+\---]\(<# 📓 FMHY
 
-%3Cfigure%3E<img src=".gitbook/assets/FREEMEDIAHECKYEAH.png" alt=""><figcaption></figcaption></figure>
-
+%3Cfigure%3E![](.gitbook/assets/FREEMEDIAHECKYEAH.png)
 
 <figure><img src=".gitbook/assets/FMHY Stats 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -170,7 +178,7 @@ Make changes to the FMHY Wiki
 
 **Adblocking Extensions, Privacy Extensions, Privacy Tools, VPN's, Proxies, Antivirus**
 
-##  [📺 Movies / TV / Anime / Sports](VideoPiracyGuide.md)
+## [📺 Movies / TV / Anime / Sports](VideoPiracyGuide.md)
 
 **Streaming Apps, Streaming Sites, Download Sites, Torrent Apps, Torrent Sites**
 
@@ -216,7 +224,7 @@ Make changes to the FMHY Wiki
 
 ## [🌏 Non-English](Non-English.md)
 
-**International Piracy Sites** 
+**International Piracy Sites**
 
 ## [🏴‍☠️ Beginners Guide](Beginners%20Guide%20to%20Piracy.md)
 
@@ -232,8 +240,7 @@ Make changes to the FMHY Wiki
 
 ## [🖥 Storage](STORAGE.md)
 
-Link to the GitHub storage page. 
-You need to manually open this as of now since many links lead back to reddit instead of GitHub
+Link to the GitHub storage page. You need to manually open this as of now since many links lead back to reddit instead of GitHub
 
 ## [🔍 Site Hunting Guide](Site%20Hunting%20Guide.md)
 
@@ -248,11 +255,8 @@ Make changes to the FMHY Wiki
 **Things to note:**
 
 * Anyone can organize, correct or change anything they feel could be improved.
-
 * If you're adding a new site, please ctrl+f the url on this [page](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page) or [engine](https://github.com/Rust1667/a-FMHY-search-engine) to make sure we don't already have it.
-
 * Approved edits will be applied to [reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki) and all [backups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups).
-
 * You can send us stuff directly via [💬 Divolt](https://redd.it/uto5vw).
 
---->)
+\--->)
