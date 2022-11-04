@@ -1,7 +1,5 @@
 ---
-cover: >-
-  .gitbook/assets/FMHY Banner (1280 × 520 px) (1280 × 410 px) (1280 × 300
-  px).png
+cover: .gitbook/assets/FMHY Banner (1280 × 300 px).png
 coverY: 0
 ---
 
